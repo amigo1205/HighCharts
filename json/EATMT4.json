@@ -1,0 +1,72 @@
+[
+ {
+   "ORDER_DATE": "2015-09-15",
+   "LINE_value": 288,
+   "AUC": 0.02
+ },
+ {
+   "ORDER_DATE": "2015-10-20",
+   "LINE_value": 288,
+   "AUC": 0.04
+ },
+ {
+   "ORDER_DATE": "2016-01-12",
+   "LINE_value": 288,
+   "AUC": 0.03
+ },
+ {
+   "ORDER_DATE": "2016-03-11",
+   "LINE_value": 316,
+   "AUC": 0.15
+ },
+ {
+   "ORDER_DATE": "2016-05-17",
+   "LINE_value": 288,
+   "AUC": 0.15
+ },
+ {
+   "ORDER_DATE": "2016-06-28",
+   "LINE_value": 308,
+   "AUC": 0.43
+ },
+ {
+   "ORDER_DATE": "2016-08-12",
+   "LINE_value": 288,
+   "AUC": 0.26
+ },
+ {
+   "ORDER_DATE": "2016-09-16",
+   "LINE_value": 316.6,
+   "AUC": 0.55
+ },
+ {
+   "ORDER_DATE": "2016-11-04",
+   "LINE_value": 288,
+   "AUC": 0.59
+ },
+ {
+   "ORDER_DATE": "2017-01-13",
+   "LINE_value": 288,
+   "AUC": 0.78
+ },
+ {
+   "ORDER_DATE": "2017-03-10",
+   "LINE_value": 302.3,
+   "AUC": 0.92
+ },
+ {
+   "ORDER_DATE": "2017-05-03",
+   "LINE_value": 288,
+   "AUC": 0.94
+ },
+ {
+   "ORDER_DATE": "2017-06-09",
+   "LINE_value": 288,
+   "AUC": 0.91
+ },
+ {
+   "ORDER_DATE": "2017-07-14",
+   "LINE_value": 316.6,
+   "AUC": 0.94
+ }
+]

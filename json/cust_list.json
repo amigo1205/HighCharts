@@ -1,0 +1,32 @@
+[
+ {
+   "CUSTOMER": "GEEBHGW3",
+   "NAME": "GEEBHGW3",
+   "AUC": 0.95,
+   "MaxDate": "2017-05-08"
+ },
+ {
+   "CUSTOMER": "CLOUDFV4",
+   "NAME": "CLOUDFV4",
+   "AUC": 0.94,
+   "MaxDate": "2017-07-26"
+ },
+ {
+   "CUSTOMER": "EATMT4",
+   "NAME": "EATMT4",
+   "AUC": 0.94,
+   "MaxDate": "2017-07-14"
+ },
+ {
+   "CUSTOMER": "KTGMFV4",
+   "NAME": "LIMESH",
+   "AUC": 0.93,
+   "MaxDate": "2017-07-26"
+ },
+ {
+   "CUSTOMER": "TECAW2",
+   "NAME": "TECAW2",
+   "AUC": 0.93,
+   "MaxDate": "2017-06-14"
+ }
+]

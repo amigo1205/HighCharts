@@ -1,6 +1,25 @@
 var chartData = [];
 
 window.onload = function() {
+    //load json from local resource
+    $.getJSON("json/cust_list.json")
+        .done(function(data) {
+            for (var item of data) {
+                if (item.hasOwnProperty("CUSTOMER") == false) {
+                    return;
+                }
+
+                $('#customer-list').append('<option>' + item.CUSTOMER + '</option>');
+
+                var jsonPath = "json/" + item.CUSTOMER + ".json";
+                $.getJSON(jsonPath)
+                    .done(function(data, ff) {
+                        var customer = this.url.replace('.json', '').replace('json/', '');
+                        chartData[customer] = data;
+                    })
+            }
+        })
+
     var listfile = document.getElementById('listfile');
 
     listfile.addEventListener('change', function(e) {
@@ -12,7 +31,8 @@ window.onload = function() {
             var reader = new FileReader();
 
             reader.onload = function(e) {
-
+                $('#customer-list').empty();
+                
                 list = JSON.parse(reader.result);
                 for (var item of list) {
                     if (item.hasOwnProperty("CUSTOMER") == false) {

@@ -1,0 +1,607 @@
+[
+ {
+   "ORDER_DATE": "2011-06-23",
+   "LINE_value": 247.2,
+   "AUC": 0.04
+ },
+ {
+   "ORDER_DATE": "2011-07-05",
+   "LINE_value": 0,
+   "AUC": 0.07
+ },
+ {
+   "ORDER_DATE": "2011-07-12",
+   "LINE_value": 448.71,
+   "AUC": 0.2
+ },
+ {
+   "ORDER_DATE": "2011-07-18",
+   "LINE_value": 0,
+   "AUC": 0.11
+ },
+ {
+   "ORDER_DATE": "2011-07-19",
+   "LINE_value": 0,
+   "AUC": 0.1
+ },
+ {
+   "ORDER_DATE": "2011-09-20",
+   "LINE_value": 1121.95,
+   "AUC": 0.33
+ },
+ {
+   "ORDER_DATE": "2011-10-19",
+   "LINE_value": 532.56,
+   "AUC": 0.22
+ },
+ {
+   "ORDER_DATE": "2011-11-02",
+   "LINE_value": 253.2,
+   "AUC": 0.25
+ },
+ {
+   "ORDER_DATE": "2011-11-09",
+   "LINE_value": 253.2,
+   "AUC": 0.19
+ },
+ {
+   "ORDER_DATE": "2011-11-30",
+   "LINE_value": 253.2,
+   "AUC": 0.29
+ },
+ {
+   "ORDER_DATE": "2011-12-07",
+   "LINE_value": 237,
+   "AUC": 0.2
+ },
+ {
+   "ORDER_DATE": "2011-12-21",
+   "LINE_value": 264,
+   "AUC": 0.34
+ },
+ {
+   "ORDER_DATE": "2011-12-29",
+   "LINE_value": 168,
+   "AUC": 0.39
+ },
+ {
+   "ORDER_DATE": "2012-01-18",
+   "LINE_value": 264,
+   "AUC": 0.45
+ },
+ {
+   "ORDER_DATE": "2012-02-08",
+   "LINE_value": 253.2,
+   "AUC": 0.43
+ },
+ {
+   "ORDER_DATE": "2012-02-22",
+   "LINE_value": 237,
+   "AUC": 0.53
+ },
+ {
+   "ORDER_DATE": "2012-03-14",
+   "LINE_value": 253.2,
+   "AUC": 0.45
+ },
+ {
+   "ORDER_DATE": "2012-03-28",
+   "LINE_value": 242.4,
+   "AUC": 0.62
+ },
+ {
+   "ORDER_DATE": "2012-04-18",
+   "LINE_value": 242.4,
+   "AUC": 0.49
+ },
+ {
+   "ORDER_DATE": "2012-05-02",
+   "LINE_value": 242.4,
+   "AUC": 0.53
+ },
+ {
+   "ORDER_DATE": "2012-05-16",
+   "LINE_value": 242.4,
+   "AUC": 0.51
+ },
+ {
+   "ORDER_DATE": "2012-06-06",
+   "LINE_value": 247.8,
+   "AUC": 0.52
+ },
+ {
+   "ORDER_DATE": "2012-06-20",
+   "LINE_value": 237,
+   "AUC": 0.61
+ },
+ {
+   "ORDER_DATE": "2012-07-06",
+   "LINE_value": 242.4,
+   "AUC": 0.62
+ },
+ {
+   "ORDER_DATE": "2012-07-25",
+   "LINE_value": 247.8,
+   "AUC": 0.58
+ },
+ {
+   "ORDER_DATE": "2012-08-08",
+   "LINE_value": 253.2,
+   "AUC": 0.57
+ },
+ {
+   "ORDER_DATE": "2012-08-22",
+   "LINE_value": 264,
+   "AUC": 0.45
+ },
+ {
+   "ORDER_DATE": "2012-09-06",
+   "LINE_value": 231.6,
+   "AUC": 0.69
+ },
+ {
+   "ORDER_DATE": "2012-09-19",
+   "LINE_value": 264,
+   "AUC": 0.56
+ },
+ {
+   "ORDER_DATE": "2012-09-26",
+   "LINE_value": 237,
+   "AUC": 0.51
+ },
+ {
+   "ORDER_DATE": "2012-10-11",
+   "LINE_value": 247.8,
+   "AUC": 0.45
+ },
+ {
+   "ORDER_DATE": "2012-10-24",
+   "LINE_value": 253.2,
+   "AUC": 0.41
+ },
+ {
+   "ORDER_DATE": "2012-11-07",
+   "LINE_value": 247.8,
+   "AUC": 0.6
+ },
+ {
+   "ORDER_DATE": "2012-11-14",
+   "LINE_value": 242.4,
+   "AUC": 0.43
+ },
+ {
+   "ORDER_DATE": "2012-11-28",
+   "LINE_value": 253.2,
+   "AUC": 0.3
+ },
+ {
+   "ORDER_DATE": "2012-12-05",
+   "LINE_value": 264,
+   "AUC": 0.23
+ },
+ {
+   "ORDER_DATE": "2012-12-12",
+   "LINE_value": 247.8,
+   "AUC": 0.23
+ },
+ {
+   "ORDER_DATE": "2012-12-20",
+   "LINE_value": 226.2,
+   "AUC": 0.21
+ },
+ {
+   "ORDER_DATE": "2012-12-28",
+   "LINE_value": 264,
+   "AUC": 0.26
+ },
+ {
+   "ORDER_DATE": "2013-01-23",
+   "LINE_value": 253.2,
+   "AUC": 0.5
+ },
+ {
+   "ORDER_DATE": "2013-02-20",
+   "LINE_value": 258.6,
+   "AUC": 0.63
+ },
+ {
+   "ORDER_DATE": "2013-03-13",
+   "LINE_value": 264,
+   "AUC": 0.52
+ },
+ {
+   "ORDER_DATE": "2013-04-04",
+   "LINE_value": 253.2,
+   "AUC": 0.83
+ },
+ {
+   "ORDER_DATE": "2013-04-11",
+   "LINE_value": 242.4,
+   "AUC": 0.64
+ },
+ {
+   "ORDER_DATE": "2013-05-02",
+   "LINE_value": 220.8,
+   "AUC": 0.59
+ },
+ {
+   "ORDER_DATE": "2013-05-30",
+   "LINE_value": 242.4,
+   "AUC": 0.53
+ },
+ {
+   "ORDER_DATE": "2013-06-13",
+   "LINE_value": 242.4,
+   "AUC": 0.61
+ },
+ {
+   "ORDER_DATE": "2013-06-27",
+   "LINE_value": 237,
+   "AUC": 0.62
+ },
+ {
+   "ORDER_DATE": "2013-07-25",
+   "LINE_value": 495.6,
+   "AUC": 0.56
+ },
+ {
+   "ORDER_DATE": "2013-07-29",
+   "LINE_value": -247.8,
+   "AUC": 0.48
+ },
+ {
+   "ORDER_DATE": "2013-08-15",
+   "LINE_value": 237,
+   "AUC": 0.39
+ },
+ {
+   "ORDER_DATE": "2013-08-22",
+   "LINE_value": 0,
+   "AUC": 0.26
+ },
+ {
+   "ORDER_DATE": "2013-09-05",
+   "LINE_value": 231.6,
+   "AUC": 0.37
+ },
+ {
+   "ORDER_DATE": "2013-09-26",
+   "LINE_value": 247.8,
+   "AUC": 0.5
+ },
+ {
+   "ORDER_DATE": "2013-10-17",
+   "LINE_value": 231.6,
+   "AUC": 0.41
+ },
+ {
+   "ORDER_DATE": "2013-10-31",
+   "LINE_value": 237,
+   "AUC": 0.49
+ },
+ {
+   "ORDER_DATE": "2013-11-14",
+   "LINE_value": 231.6,
+   "AUC": 0.18
+ },
+ {
+   "ORDER_DATE": "2013-11-29",
+   "LINE_value": 242.4,
+   "AUC": 0.04
+ },
+ {
+   "ORDER_DATE": "2013-12-18",
+   "LINE_value": 337.2,
+   "AUC": 0.03
+ },
+ {
+   "ORDER_DATE": "2014-01-22",
+   "LINE_value": 216,
+   "AUC": 0.08
+ },
+ {
+   "ORDER_DATE": "2014-02-05",
+   "LINE_value": 210.6,
+   "AUC": 0.11
+ },
+ {
+   "ORDER_DATE": "2014-02-19",
+   "LINE_value": 210.6,
+   "AUC": 0.22
+ },
+ {
+   "ORDER_DATE": "2014-03-05",
+   "LINE_value": 221.4,
+   "AUC": 0.32
+ },
+ {
+   "ORDER_DATE": "2014-03-19",
+   "LINE_value": 221.4,
+   "AUC": 0.19
+ },
+ {
+   "ORDER_DATE": "2014-04-02",
+   "LINE_value": 221.4,
+   "AUC": 0.28
+ },
+ {
+   "ORDER_DATE": "2014-04-16",
+   "LINE_value": 205.2,
+   "AUC": 0.11
+ },
+ {
+   "ORDER_DATE": "2014-05-14",
+   "LINE_value": 221.4,
+   "AUC": 0.31
+ },
+ {
+   "ORDER_DATE": "2014-05-22",
+   "LINE_value": 205.2,
+   "AUC": 0.64
+ },
+ {
+   "ORDER_DATE": "2014-06-12",
+   "LINE_value": 216,
+   "AUC": 0.28
+ },
+ {
+   "ORDER_DATE": "2014-07-02",
+   "LINE_value": 221.4,
+   "AUC": 0.65
+ },
+ {
+   "ORDER_DATE": "2014-07-24",
+   "LINE_value": 205.2,
+   "AUC": 0.75
+ },
+ {
+   "ORDER_DATE": "2014-08-14",
+   "LINE_value": 221.4,
+   "AUC": 0.8
+ },
+ {
+   "ORDER_DATE": "2014-09-04",
+   "LINE_value": 210.6,
+   "AUC": 0.77
+ },
+ {
+   "ORDER_DATE": "2014-09-25",
+   "LINE_value": 221.4,
+   "AUC": 0.71
+ },
+ {
+   "ORDER_DATE": "2014-10-15",
+   "LINE_value": 216,
+   "AUC": 0.85
+ },
+ {
+   "ORDER_DATE": "2014-11-13",
+   "LINE_value": 216,
+   "AUC": 0.77
+ },
+ {
+   "ORDER_DATE": "2014-11-27",
+   "LINE_value": 221.4,
+   "AUC": 0.79
+ },
+ {
+   "ORDER_DATE": "2014-12-18",
+   "LINE_value": 221.4,
+   "AUC": 0.73
+ },
+ {
+   "ORDER_DATE": "2014-12-24",
+   "LINE_value": 216,
+   "AUC": 0.47
+ },
+ {
+   "ORDER_DATE": "2015-01-21",
+   "LINE_value": 226.8,
+   "AUC": 0.43
+ },
+ {
+   "ORDER_DATE": "2015-02-19",
+   "LINE_value": 189.6,
+   "AUC": 0.45
+ },
+ {
+   "ORDER_DATE": "2015-03-11",
+   "LINE_value": 244.8,
+   "AUC": 0.67
+ },
+ {
+   "ORDER_DATE": "2015-03-17",
+   "LINE_value": 79.2,
+   "AUC": 0.4
+ },
+ {
+   "ORDER_DATE": "2015-04-09",
+   "LINE_value": 216,
+   "AUC": 0.42
+ },
+ {
+   "ORDER_DATE": "2015-04-23",
+   "LINE_value": -108,
+   "AUC": 0.56
+ },
+ {
+   "ORDER_DATE": "2015-04-29",
+   "LINE_value": 210.6,
+   "AUC": 0.48
+ },
+ {
+   "ORDER_DATE": "2015-05-27",
+   "LINE_value": 221.4,
+   "AUC": 0.21
+ },
+ {
+   "ORDER_DATE": "2015-06-11",
+   "LINE_value": 205.2,
+   "AUC": 0.38
+ },
+ {
+   "ORDER_DATE": "2015-07-16",
+   "LINE_value": 361.92,
+   "AUC": 0.67
+ },
+ {
+   "ORDER_DATE": "2015-08-13",
+   "LINE_value": 205.2,
+   "AUC": 0.49
+ },
+ {
+   "ORDER_DATE": "2015-09-23",
+   "LINE_value": 452.4,
+   "AUC": 0.73
+ },
+ {
+   "ORDER_DATE": "2015-10-21",
+   "LINE_value": 210.6,
+   "AUC": 0.64
+ },
+ {
+   "ORDER_DATE": "2015-11-18",
+   "LINE_value": 210.6,
+   "AUC": 0.65
+ },
+ {
+   "ORDER_DATE": "2015-12-03",
+   "LINE_value": 178.8,
+   "AUC": 0.77
+ },
+ {
+   "ORDER_DATE": "2015-12-23",
+   "LINE_value": 210,
+   "AUC": 0.8
+ },
+ {
+   "ORDER_DATE": "2016-02-03",
+   "LINE_value": 221.4,
+   "AUC": 0.84
+ },
+ {
+   "ORDER_DATE": "2016-02-24",
+   "LINE_value": 199.8,
+   "AUC": 0.89
+ },
+ {
+   "ORDER_DATE": "2016-03-02",
+   "LINE_value": 341.28,
+   "AUC": 0.65
+ },
+ {
+   "ORDER_DATE": "2016-04-05",
+   "LINE_value": 205.2,
+   "AUC": 0.6
+ },
+ {
+   "ORDER_DATE": "2016-04-20",
+   "LINE_value": 231.6,
+   "AUC": 0.8
+ },
+ {
+   "ORDER_DATE": "2016-05-17",
+   "LINE_value": 216,
+   "AUC": 0.9
+ },
+ {
+   "ORDER_DATE": "2016-06-14",
+   "LINE_value": 242.4,
+   "AUC": 0.84
+ },
+ {
+   "ORDER_DATE": "2016-07-05",
+   "LINE_value": 216,
+   "AUC": 0.83
+ },
+ {
+   "ORDER_DATE": "2016-08-02",
+   "LINE_value": 199.8,
+   "AUC": 0.59
+ },
+ {
+   "ORDER_DATE": "2016-08-25",
+   "LINE_value": 189.6,
+   "AUC": 0.62
+ },
+ {
+   "ORDER_DATE": "2016-09-08",
+   "LINE_value": 242.4,
+   "AUC": 0.62
+ },
+ {
+   "ORDER_DATE": "2016-10-07",
+   "LINE_value": 264,
+   "AUC": 0.5
+ },
+ {
+   "ORDER_DATE": "2016-11-10",
+   "LINE_value": 205.2,
+   "AUC": 0.68
+ },
+ {
+   "ORDER_DATE": "2016-12-08",
+   "LINE_value": 216,
+   "AUC": 0.87
+ },
+ {
+   "ORDER_DATE": "2017-01-12",
+   "LINE_value": 253.2,
+   "AUC": 0.89
+ },
+ {
+   "ORDER_DATE": "2017-02-02",
+   "LINE_value": 331.8,
+   "AUC": 0.8
+ },
+ {
+   "ORDER_DATE": "2017-02-13",
+   "LINE_value": -84,
+   "AUC": 0.67
+ },
+ {
+   "ORDER_DATE": "2017-02-23",
+   "LINE_value": 231.6,
+   "AUC": 0.88
+ },
+ {
+   "ORDER_DATE": "2017-03-09",
+   "LINE_value": 158.4,
+   "AUC": 0.86
+ },
+ {
+   "ORDER_DATE": "2017-03-14",
+   "LINE_value": 84,
+   "AUC": 0.77
+ },
+ {
+   "ORDER_DATE": "2017-03-30",
+   "LINE_value": 221.4,
+   "AUC": 0.9
+ },
+ {
+   "ORDER_DATE": "2017-04-20",
+   "LINE_value": 221.4,
+   "AUC": 0.8
+ },
+ {
+   "ORDER_DATE": "2017-05-11",
+   "LINE_value": 237.6,
+   "AUC": 0.85
+ },
+ {
+   "ORDER_DATE": "2017-05-25",
+   "LINE_value": 189,
+   "AUC": 0.89
+ },
+ {
+   "ORDER_DATE": "2017-06-21",
+   "LINE_value": 232.2,
+   "AUC": 0.91
+ },
+ {
+   "ORDER_DATE": "2017-07-26",
+   "LINE_value": 216,
+   "AUC": 0.94
+ }
+]
